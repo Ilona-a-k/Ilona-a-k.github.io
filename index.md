@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ##title: Ilona Kalinina - Software Development Engineer
 ---
-My expertise includes troubleshooting issues, optimizing system performance, and maintaining high code quality.
+
 # Ilona Kalinina
 **Software Development Engineer**
 
@@ -77,21 +77,21 @@ MS SQL, PostgreSQL, Cosmos DB
 #### **Project: MS Azure Specialized**
 Akvelon is part of the Azure Dedicated team, collaborating with third-party companies (NetApp, Cray, HSM, SAP, VMware, Nutanix, and more) to expand Azure Cloud capabilities for their respective workloads.
 
-**Key Responsibilities:**
+##### **Key Responsibilities:**
  - Network Design & Testing: Designed and tested various network topologies to enhance cloud infrastructure reliability and performance.
  - Task Planning & Estimation: Participated in Agile task planning and effort estimation, ensuring timely project delivery.
  - Log Analysis: Investigated and analyzed logs in Azure using Kusto Query Language (KQL) to troubleshoot and optimize system performance.
  - Scripting & Automation: Created, updated, and executed PowerShell scripts to automate repetitive tasks and improve workflow efficiency.
  - Software Development: Implemented code changes in F# and developed new features in C# to meet specific team requirements and objectives.
 
-**Technologies & Tools:**
+##### **Technologies & Tools:**
 C#, PowerShell, Kusto Query Language, Azure DevOps, Azure Portal, F#, Git
 
 
 #### **Project: Limeade Tier 3 Support**
 Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being programs tailored to company culture and backed by scientific research to foster happier, healthier workforces.
 
-**Key Responsibilities:**
+##### **Key Responsibilities:**
  - Issue Investigation: Investigated product issues at both code and data levels, ensuring swift resolution and minimal downtime.
  - Log Analysis: Utilized Azure App Insight and KQL to reconstruct user journeys and identify root causes of issues.
  - Bug Fixing: Identified and addressed bugs and product deficiencies, enhancing overall product stability.
@@ -102,7 +102,8 @@ Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being 
  - Documentation: Maintained thorough documentation and troubleshooting guides to support team knowledge and onboarding.
  - Mentorship: Shared expertise and guided new colleagues, fostering a collaborative team environment.
 
- **Technologies & Tools:** C#, PowerShell, T-SQL, MS SQL, Cosmos DB, Kusto Query Language (KQL), Azure DevOps, SAML, Azure Storage, Azure Monitor, Azure App Insight, Git
+ ##### **Technologies & Tools:** 
+ C#, PowerShell, T-SQL, MS SQL, Cosmos DB, Kusto Query Language (KQL), Azure DevOps, SAML, Azure Storage, Azure Monitor, Azure App Insight, Git
 
 
 ### **Start-up**
@@ -114,6 +115,7 @@ Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being 
 - Extended application functionality by adding new reports, dashboard widgets, and external data integrations.
 - Optimized performance and resolved critical bugs to ensure a smooth user experience.
 - Developed and edited an additional website page (HTML/CSS) for product promotion.
+
 **Technologies:** C#, .NET, Entity Framework, T-SQL, MS SQL Server, MVVM, WPF, XAML, Git.
 
 ---
