@@ -1,14 +1,16 @@
 title: Ilona Kalinina
 description: Software Development Engineer
-url: "https://Ilona-a-k.github.io" # Replace with your GitHub Pages URL
+url: "https://Ilona-a-k.github.io" 
 baseurl: ""
 github_username: Ilona-a-k
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
+
 
 # Minimal Mistakes settings
+minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 main_lang: en
 logo: /assets/images/logo.png
 

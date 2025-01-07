@@ -1,8 +1,9 @@
 ---
 layout: home
-title: Ilona Kalinina - Software Development Engineer
+author_profile: true
+##title: Ilona Kalinina - Software Development Engineer
 ---
-
+My expertise includes troubleshooting issues, optimizing system performance, and maintaining high code quality.
 # Ilona Kalinina
 **Software Development Engineer**
 
@@ -12,11 +13,11 @@ title: Ilona Kalinina - Software Development Engineer
 
 ## **Professional Summary**
 
-I am a Software Development Engineer with over five years of experience in building both back-end and front-end solutions. Proficient in technologies such as C#, ASP.NET Core, Entity Framework, T-SQL, and WPF, I develop software that meets user requirements and performs efficiently. My expertise includes troubleshooting issues, optimizing system performance, and maintaining high code quality.
+Software Development Engineer with over five years of experience in designing and implementing back-end and front-end solutions. Proficient in C#, ASP.NET Core, Entity Framework, T-SQL, and WPF, with familiarity in React and TypeScript. Capable of developing software that meets user requirements and ensures efficient performance.
 
-I am effective both independently and as part of a team, consistently seeking ways to improve processes and contribute to projects. Experienced in collaborative, agile environments. I prioritize clear communication with colleagues and stakeholders to ensure alignment and successful outcomes. Committed to continuous learning, I apply best practices like SOLID principles, GoF Design Patterns, and Clean Code to enhance my skills and project success.
+Experienced in troubleshooting and resolving technical issues, optimizing system performance, and maintaining code quality through practices such as SOLID principles and Clean Code. Skilled in human-centered UI/UX design, creating interfaces that enhance user experience and reduce complexity.
 
-Additionally, I have experience in human-centered UI/UX design, focusing on creating interfaces that enhance user experience and reduce complexity and errors.
+Able to work independently and as part of a team, with experience in agile environments and collaborating with international teams across different time zones. Strong communication skills for coordinating with colleagues and stakeholders to achieve project goals. Demonstrates adaptability and effective time management to ensure timely delivery of software solutions. Committed to continuous learning and applying modern technologies to develop reliable software.
 
 ---
 
@@ -40,7 +41,7 @@ Additionally, I have experience in human-centered UI/UX design, focusing on crea
 - xUnit, NLog
 
 ### **DevOps & Cloud**
-- Azure DevOps, Azure, Docker, Kubernetes
+- Azure DevOps, Azure, Docker
 
 ### **Architecture & Design Patterns**
 - MVVM, MVC, SOLID Principles, GoF Design Patterns
@@ -59,7 +60,7 @@ C#, XAML, T-SQL, SQL, JavaScript, PowerShell, F#, Kusto Query Language, SAML
 - **Back-End:** .NET, ASP.NET Core, ASP.NET Core MVC, Entity Framework, Microservices, RESTful APIs
 - **Front-End:** HTML/CSS, JavaScript, Bootstrap, WPF
 - **Testing & Logging:** xUnit, NLog
-- **DevOps & Cloud:** Azure DevOps, Azure, Docker, Kubernetes, Git
+- **DevOps & Cloud:** Azure DevOps, Azure, Docker, Git
 - **Architecture & Design Patterns:** MVVM, MVC, SOLID Principles, GoF Design Patterns
 
 **Databases:**
@@ -74,22 +75,34 @@ MS SQL, PostgreSQL, Cosmos DB
 *October 2021 – February 2025*
 
 #### **Project: MS Azure Specialized**
-- Developed a facade service in Azure for VMware virtual machines, circumventing Express Route.
-- Built and tested various network topologies; contributed to project planning and task estimation.
-- Analyzed logs in Azure using Kusto Query Language to diagnose and resolve performance or connectivity issues.
-- Updated and executed PowerShell scripts to automate repetitive tasks and deployments.
-- Contributed to F# and C# codebases to implement new features and enhancements.
-- Liaised with product teams and stakeholders via Azure DevOps and regular standups.
-- Maintained documentation and troubleshooting guides for seamless knowledge transfer.
-- **Technologies:** C#, F#, PowerShell, Kusto QL, Azure, Azure DevOps.
+Akvelon is part of the Azure Dedicated team, collaborating with third-party companies (NetApp, Cray, HSM, SAP, VMware, Nutanix, and more) to expand Azure Cloud capabilities for their respective workloads.
+
+**Key Responsibilities:**
+ - Network Design & Testing: Designed and tested various network topologies to enhance cloud infrastructure reliability and performance.
+ - Task Planning & Estimation: Participated in Agile task planning and effort estimation, ensuring timely project delivery.
+ - Log Analysis: Investigated and analyzed logs in Azure using Kusto Query Language (KQL) to troubleshoot and optimize system performance.
+ - Scripting & Automation: Created, updated, and executed PowerShell scripts to automate repetitive tasks and improve workflow efficiency.
+ - Software Development: Implemented code changes in F# and developed new features in C# to meet specific team requirements and objectives.
+
+**Technologies & Tools:**
+C#, PowerShell, Kusto Query Language, Azure DevOps, Azure Portal, F#, Git
+
 
 #### **Project: Limeade Tier 3 Support**
-- Investigated product issues at both code and data levels; pinpointed bugs and platform leakages.
-- Analyzed extensive logs in Azure App Insight (Kusto QL) to replicate and resolve user flow issues.
-- Devised solutions via data fixes, PowerShell scripts, and code-level interventions.
-- Managed user data in Azure Blob, wrote complex SQL queries, and addressed Azure Monitor alerts.
-- Collaborated with product teams using Agile methodologies, documented solutions, and trained new team members.
-- **Technologies:** C#, T-SQL, MS SQL, Cosmos DB, Kusto QL, PowerShell, Azure DevOps, Auth0, SAML.
+Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being programs tailored to company culture and backed by scientific research to foster happier, healthier workforces.
+
+**Key Responsibilities:**
+ - Issue Investigation: Investigated product issues at both code and data levels, ensuring swift resolution and minimal downtime.
+ - Log Analysis: Utilized Azure App Insight and KQL to reconstruct user journeys and identify root causes of issues.
+ - Bug Fixing: Identified and addressed bugs and product deficiencies, enhancing overall product stability.
+ - Data Solutions: Provided solutions through data fixes and complex SQL queries to streamline support processes.
+ - Scripting: Created, updated, and ran PowerShell scripts to automate support tasks and improve efficiency.
+ - Data Management: Maintained up-to-date user data in Azure Blob Storage, ensuring data integrity and accessibility.
+ - Collaboration: Worked closely with product teams via meetings and Azure DevOps work items to align support activities with product goals.
+ - Documentation: Maintained thorough documentation and troubleshooting guides to support team knowledge and onboarding.
+ - Mentorship: Shared expertise and guided new colleagues, fostering a collaborative team environment.
+
+ **Technologies & Tools:** C#, PowerShell, T-SQL, MS SQL, Cosmos DB, Kusto Query Language (KQL), Azure DevOps, SAML, Azure Storage, Azure Monitor, Azure App Insight, Git
 
 
 ### **Start-up**
@@ -101,7 +114,7 @@ MS SQL, PostgreSQL, Cosmos DB
 - Extended application functionality by adding new reports, dashboard widgets, and external data integrations.
 - Optimized performance and resolved critical bugs to ensure a smooth user experience.
 - Developed and edited an additional website page (HTML/CSS) for product promotion.
-- **Technologies:** C#, .NET, Entity Framework, T-SQL, MS SQL Server, MVVM, WPF, XAML, Git.
+**Technologies:** C#, .NET, Entity Framework, T-SQL, MS SQL Server, MVVM, WPF, XAML, Git.
 
 ---
 
@@ -126,8 +139,8 @@ MS SQL, PostgreSQL, Cosmos DB
 - Passionate about human-centered design, ensuring interfaces are user-friendly and cost-effective without being overly aggressive.
 
 ## **Contact**
-- **Email:** [youremail@example.com](mailto:ilona.a.kalinina@gmail.com)
+- **Email:** [ilona.a.kalinina@gmail.com](mailto:ilona.a.kalinina@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ilonakalinina](https://www.linkedin.com/in/ilonakalinina)
-- **GitHub:** [github.com/username](https://github.com/Ilona-a-k)
+- **GitHub:** [github.com/Ilona-a-k](https://github.com/Ilona-a-k)
 
 **References available upon request.**
