@@ -6,7 +6,12 @@ github_username: Ilona-a-k
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+
+author:
+  name             : "Ilona Kalinina"
+  avatar           : "/assets/images/bio-photo.jpg"
+  location         : "Belgrade"
 
 # Minimal Mistakes settings
 minimal_mistakes_skin: "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
