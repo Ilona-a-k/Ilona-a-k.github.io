@@ -71,7 +71,7 @@ MS SQL, PostgreSQL, Cosmos DB
 
 ### **Akvelon, Inc.**
 **Software Development Engineer**  
-*October 2021 – February 2025*
+*February 2022 – February 2025*
 
 #### **Project: MS Azure Specialized**
 Akvelon is part of the Azure Dedicated team, collaborating with third-party companies (NetApp, Cray, HSM, SAP, VMware, Nutanix, and more) to expand Azure Cloud capabilities for their respective workloads.
