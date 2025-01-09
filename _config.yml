@@ -6,7 +6,7 @@ github_username: Ilona-a-k
 
 # Build settings
 markdown: kramdown
-theme: air
+#theme: minima
 
 author:
   name             : "Ilona Kalinina"
