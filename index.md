@@ -6,9 +6,9 @@ layout: home
 # Ilona Kalinina
 **Software Development Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilonakalinina)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Ilona-a-k)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ilona.a.kalinina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=f5f5f5)](https://www.linkedin.com/in/ilonakalinina)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&labelColor=f5f5f5)](https://github.com/Ilona-a-k)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&labelColor=f5f5f5)](mailto:ilona.a.kalinina@gmail.com)
 
 ## **Professional Summary**
 
@@ -126,9 +126,9 @@ Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being 
 
 ---
 
-## **Related Coursework**
+<!-- ## **Related Coursework**
 
-- **Docker and Kubernetes: The Complete Guide**
+- **Docker and Kubernetes: The Complete Guide** -->
 
 ---
 
