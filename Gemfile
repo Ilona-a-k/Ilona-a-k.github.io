@@ -13,4 +13,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "html-proofer"
+  gem "kramdown-parser-gfm"
 end
