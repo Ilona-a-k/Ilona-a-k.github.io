@@ -92,7 +92,7 @@ Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being 
 
 ##### **Key Responsibilities:**
  - Issue Investigation: Investigated product issues at both code and data levels, ensuring swift resolution and minimal downtime.
- - Log Analysis: Utilized Azure App Insight and KQL to reconstruct user journeys and identify root causes of issues.
+ - Log Analysis: Utilized Azure Application Insights and KQL to reconstruct user journeys and identify root causes of issues.
  - Bug Fixing: Identified and addressed bugs and product deficiencies, enhancing overall product stability.
  - Data Solutions: Provided solutions through data fixes and complex SQL queries to streamline support processes.
  - Scripting: Created, updated, and ran PowerShell scripts to automate support tasks and improve efficiency.
@@ -102,7 +102,7 @@ Akvelon is part of Limeade’s Tier 3 support team. Limeade delivers well-being 
  - Mentorship: Shared expertise and guided new colleagues, fostering a collaborative team environment.
 
  ##### **Technologies & Tools:** 
- C#, PowerShell, T-SQL, MS SQL, Cosmos DB, Kusto Query Language (KQL), Azure DevOps, SAML, Azure Storage, Azure Monitor, Azure App Insight, Git
+ C#, PowerShell, T-SQL, MS SQL, Cosmos DB, Kusto Query Language (KQL), Azure DevOps, SAML, Azure Storage, Azure Monitor, Azure Application Insights, Git
 
 
 ### **Start-up**
