@@ -6,7 +6,7 @@ github_username: Ilona-a-k
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 author:
   name             : "Ilona Kalinina"
