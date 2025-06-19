@@ -6,7 +6,14 @@ github_username: Ilona-a-k
 
 # Build settings
 markdown: kramdown
-#theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-gist
+  - jekyll-include-cache
 
 author:
   name             : "Ilona Kalinina"
